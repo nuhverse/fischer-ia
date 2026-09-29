@@ -1,0 +1,8 @@
+{
+  "name": "medical-center-fischer-ia",
+  "version": "1.0.0",
+  "description": "Sistema completo de gestão hospitalar — Medical Center Fischer IA",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
